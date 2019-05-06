@@ -1,0 +1,9 @@
+# Saved models
+saved_models/*
+
+# Logs for tensorboard
+logs/*
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
